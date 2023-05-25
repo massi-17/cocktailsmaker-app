@@ -41,7 +41,7 @@ To run the Cocktails Maker app locally, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! If you want to contribute to this Minesweeper app, please follow these steps:
+Contributions are welcome! If you want to contribute to this Cocktails Maker app, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/your-feature`.
