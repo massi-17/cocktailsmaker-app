@@ -26,7 +26,7 @@ To see a live demo of the Minesweeper app, visit [Demo](https://www.massidev.com
 
 ## Installation
 
-To run the Minesweeper app locally, follow these steps:
+To run the Cocktails Maker app locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/massi-17/cocktailsmaker-app.git`
 2. Navigate to the project directory: `cd cocktailsmaker-app`
