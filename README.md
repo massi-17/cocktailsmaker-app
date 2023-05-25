@@ -32,13 +32,6 @@ To run the Cocktails Maker app locally, follow these steps:
 2. Navigate to the project directory: `cd cocktailsmaker-app`
 3. Open the `index.html` file in your preferred web browser.
 
-## Usage
- 
-- Set the timer for your game.
-- Click on a square to reveal its content.
-- If the square contains a mine, the game ends.
-- Complete the game by uncovering all non-mine squares and correctly flagging the mine locations.
-
 ## Contributing
 
 Contributions are welcome! If you want to contribute to this Cocktails Maker app, please follow these steps:
